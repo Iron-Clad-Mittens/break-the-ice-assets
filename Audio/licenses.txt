@@ -1,0 +1,6 @@
+punch.wav: Attribution 3.0 http://soundbible.com/995-Jab.html
+jump.wav: Attribution 3.0 http://soundbible.com/2068-Woosh.html
+rain.wav: Attribution 3.0 http://soundbible.com/1158-Rain.html
+thunder-clap.wav: Attribution 3.0 http://soundbible.com/2015-Thunder-Strike-1.html
+footstep.wav: Attribution 3.0 - Adapted http://soundbible.com/911-Footsteps.html
+mittens-equip.wav: Attribution 3.0 http://soundbible.com/1008-Decapitation.html
